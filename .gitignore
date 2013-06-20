@@ -10,6 +10,7 @@ dist
 build
 eggs
 parts
+src
 bin
 include
 local
